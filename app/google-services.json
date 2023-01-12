@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737650064287",
+    "project_id": "step-zone",
+    "storage_bucket": "step-zone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737650064287:android:88d34de89a7dd18b29dbaa",
+        "android_client_info": {
+          "package_name": "com.release.stepzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737650064287-c3tr3dqijkp7349p8sgausuronn51b4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_a8E745JkXD7M7yHEVxKaNXMWoQalsqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737650064287-c3tr3dqijkp7349p8sgausuronn51b4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
